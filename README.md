@@ -1,1 +1,2 @@
 # scikit-learn
+This repository documents my learning process with Scikit-Learn. It includes exercises, experiments, and implementations of basic machine learning models as I build my understanding of ML fundamentals.
